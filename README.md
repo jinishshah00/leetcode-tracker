@@ -9,4 +9,7 @@ Daily sync keeps it up to date; see `solutions/`.
 
 ## Problems (Auto table below — generated daily)
 <!-- AUTO-TABLE-START -->
+| # | Problem | Language | Solution |
+|:-:|:--|:--:|:--|
+
 <!-- AUTO-TABLE-END -->
